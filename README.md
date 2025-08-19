@@ -50,3 +50,13 @@
 - 👉 Timers & Scheduling
 - 👉 Microtasks & Macrotasks
 - 👉 Concurrency Patterns
+
+## [6. DOM](./slices/06.md)
+
+- 👉 DOM Tree
+- 👉 DOM Selection
+- 👉 DOM Manipulation
+- 👉 Creating & Removing Elements
+- 👉 Events & Delegation
+- 👉 Bubbling & Capturing
+- 👉 Script Loading
