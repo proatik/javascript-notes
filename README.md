@@ -25,3 +25,17 @@
 - 👉 Destructuring
 - 👉 Object Methods
 - 👉 Array Methods
+
+## [4. Functions Deep Dive](./slices/04.md)
+
+- 👉 Function Declarations vs Expressions
+- 👉 Arrow Functions
+- 👉 Default, Rest, and Spread in Functions
+- 👉 First-class & Higher-order Functions
+- 👉 Callback Functions
+- 👉 Call, Apply, Bind
+- 👉 IIFE (Immediately Invoked Function Expressions)
+- 👉 Recursion
+- 👉 Currying
+- 👉 Memoization
+- 👉 Debounce & Throttle
