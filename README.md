@@ -39,3 +39,14 @@
 - 👉 Currying
 - 👉 Memoization
 - 👉 Debounce & Throttle
+
+## [5. Asynchronous JavaScript](./slices/05.md)
+
+- 👉 Callbacks
+- 👉 Promises
+- 👉 `async / await`
+- 👉 Event Loop
+- 👉 Fetch API & AbortController
+- 👉 Timers & Scheduling
+- 👉 Microtasks & Macrotasks
+- 👉 Concurrency Patterns
