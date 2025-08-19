@@ -17,3 +17,11 @@
 - 👉 Closures
 - 👉 `this` keyword
 - 👉 Strict Mode
+
+## [3. Objects and Arrays](./slices/03.md)
+
+- 👉 Object Literals & Descriptors
+- 👉 Spread & Rest
+- 👉 Destructuring
+- 👉 Object Methods
+- 👉 Array Methods
