@@ -8,3 +8,12 @@
 - 👉 Conditionals: `if`, `else`, `switch`
 - 👉 Loops: `for`, `while`, `do-while`, `for..in`, `for..of`
 - 👉 Functions: Declaration, Expression, Arrow
+
+## [2. Scoping and Execution](./slices/02.md)
+
+- 👉 Function Scope vs Block Scope
+- 👉 Hoisting
+- 👉 Lexical Scope
+- 👉 Closures
+- 👉 `this` keyword
+- 👉 Strict Mode
