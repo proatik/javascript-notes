@@ -60,3 +60,19 @@
 - 👉 Events & Delegation
 - 👉 Bubbling & Capturing
 - 👉 Script Loading
+
+## [7. Advanced Objects & Prototypes](./slices/07.md)
+
+- 👉 Prototype
+- 👉 Prototypal Inheritance
+- 👉 Prototype Chain (how lookup works)
+- 👉 Object.create
+- 👉 Constructor Functions & new
+- 👉 Classes & Inheritance (extends, super)
+- 👉 ES6 Class Features (static methods, private fields, getters/setters)
+- 👉 Method Overriding & Polymorphism
+- 👉 instanceof, typeof
+- 👉 hasOwnProperty vs in operator
+- 👉 Object.getPrototypeOf / Object.setPrototypeOf
+- 👉 Mixins & Composition
+- 👉 Difference between Class-based and Prototype-based inheritance
