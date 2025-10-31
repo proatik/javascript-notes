@@ -84,3 +84,13 @@
 - 👉 `throw`
 - 👉 Error Types
 - 👉 Error object properties → name, message, stack
+
+## [9. Modules](./slices/09.md)
+
+- 👉 ES6 `import` / `export`
+- 👉 Default vs Named exports
+- 👉 Module Scope
+- 👉 Dynamic Imports
+- 👉 Module Execution
+- 👉 Importing Everything
+- 👉 Top-level `await`
