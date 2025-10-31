@@ -76,3 +76,11 @@
 - 👉 Object.getPrototypeOf / Object.setPrototypeOf
 - 👉 Mixins & Composition
 - 👉 Difference between Class-based and Prototype-based inheritance
+
+## [8. Error Handling](./slices/08.md)
+
+- 👉 `try` / `catch` / `finally`
+- 👉 Custom Errors
+- 👉 `throw`
+- 👉 Error Types
+- 👉 Error object properties → name, message, stack
