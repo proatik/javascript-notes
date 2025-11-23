@@ -94,3 +94,11 @@
 - 👉 Module Execution
 - 👉 Importing Everything
 - 👉 Top-level `await`
+
+## [10. Browser APIs](./slices/10.md)
+
+- 👉 `localStorage`, `sessionStorage`, `cookies`
+- 👉 Timers: `setTimeout`, `setInterval`
+- 👉 Clipboard & Geolocation
+- 👉 Web Workers
+- 👉 Intersection / Mutation Observer
