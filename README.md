@@ -164,4 +164,14 @@
 - 👉 Object to Primitive
 - 👉 Common Gotchas
 
+## [16. JavaScript Engines & Internals](./slices/16.md)
+
+- 👉 What is a JavaScript Engine
+- 👉 Parsing
+- 👉 Compilation Pipeline
+- 👉 V8 Internals — Ignition & TurboFan
+- 👉 Hidden Classes
+- 👉 Inline Caching
+- 👉 Deoptimisations
+
 
