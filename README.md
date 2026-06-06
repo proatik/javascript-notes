@@ -130,4 +130,17 @@
 - 👉 Async Generators & `for await...of`
 - 👉 Use Cases
 
+## [13. Regular Expressions](./slices/13.md)
+
+- 👉 Syntax & Creating Regex
+- 👉 Flags
+- 👉 Character Classes
+- 👉 Quantifiers — Greedy vs Lazy
+- 👉 Anchors & Boundaries
+- 👉 Groups
+- 👉 Lookahead & Lookbehind
+- 👉 Backreferences
+- 👉 Methods
+- 👉 Common Patterns
+
 
