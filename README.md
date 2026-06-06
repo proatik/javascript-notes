@@ -102,3 +102,18 @@
 - 👉 Clipboard & Geolocation
 - 👉 Web Workers
 - 👉 Intersection / Mutation Observer
+
+## [11. Event Loop & Concurrency](./slices/11.md)
+
+- 👉 Stack, Heap, Queue
+- 👉 Web APIs Layer
+- 👉 How the Event Loop Works
+- 👉 Job Queue vs Callback Queue
+- 👉 Macro vs Micro Tasks
+- 👉 `queueMicrotask()`
+- 👉 `requestAnimationFrame`
+- 👉 Concurrency vs Parallelism
+- 👉 Blocking the Main Thread
+- 👉 Node.js Event Loop Phases
+- 👉 Common Interview Gotchas
+
