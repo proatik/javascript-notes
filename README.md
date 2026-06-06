@@ -143,4 +143,15 @@
 - 👉 Methods
 - 👉 Common Patterns
 
+## [14. Memory & Performance](./slices/14.md)
+
+- 👉 Memory Life Cycle
+- 👉 Garbage Collection
+- 👉 Common Memory Leaks
+- 👉 `WeakMap`, `WeakSet`, `WeakRef`
+- 👉 Lazy Loading
+- 👉 Optimize Loops
+- 👉 Debounce & Throttle (recap)
+- 👉 `performance` API
+
 
