@@ -55,10 +55,11 @@
 
 - 👉 DOM Tree
 - 👉 DOM Selection
+- 👉 DOM Navigation
 - 👉 DOM Manipulation
 - 👉 Creating & Removing Elements
-- 👉 Events & Delegation
-- 👉 Bubbling & Capturing
+- 👉 Event Propagation
+- 👉 Event Delegation
 - 👉 Script Loading
 
 ## [7. Advanced Objects & Prototypes](./slices/07.md)
@@ -97,11 +98,17 @@
 
 ## [10. Browser APIs](./slices/10.md)
 
-- 👉 `localStorage`, `sessionStorage`, `cookies`
-- 👉 Timers: `setTimeout`, `setInterval`
-- 👉 Clipboard & Geolocation
-- 👉 Web Workers
-- 👉 Intersection / Mutation Observer
+- 👉 `localStorage`
+- 👉 `sessionStorage`
+- 👉 Cookies
+- 👉 IndexedDB
+- 👉 `setTimeout`
+- 👉 `setInterval`
+- 👉 Clearing Timers
+- 👉 Clipboard API
+- 👉 Geolocation API
+- 👉 Intersection Observer
+- 👉 Mutation Observer
 
 ## [11. Event Loop & Concurrency](./slices/11.md)
 
@@ -116,6 +123,7 @@
 - 👉 Blocking the Main Thread
 - 👉 Node.js Event Loop Phases
 - 👉 Common Interview Gotchas
+- 👉 Quick Reference
 
 ## [12. Iterables & Generators](./slices/12.md)
 
@@ -182,3 +190,5 @@
 - 👉 Proxy & Reflect
 - 👉 Tagged Template Literals
 - 👉 Miscellaneous Operators
+
+
