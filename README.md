@@ -174,4 +174,11 @@
 - 👉 Inline Caching
 - 👉 Deoptimisations
 
+## [17. Miscellaneous](./slices/17.md)
 
+- 👉 `eval` & `with`
+- 👉 Unicode & String Encoding
+- 👉 Bitwise Operators & Tricks
+- 👉 Proxy & Reflect
+- 👉 Tagged Template Literals
+- 👉 Miscellaneous Operators
