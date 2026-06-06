@@ -154,4 +154,14 @@
 - 👉 Debounce & Throttle (recap)
 - 👉 `performance` API
 
+## [15. Type Coercion & Equality](./slices/15.md)
+
+- 👉 Implicit vs Explicit Coercion
+- 👉 `==` vs `===`
+- 👉 Truthy & Falsy
+- 👉 Coercion Rules
+- 👉 The `+` Operator
+- 👉 Object to Primitive
+- 👉 Common Gotchas
+
 
