@@ -117,3 +117,17 @@
 - 👉 Node.js Event Loop Phases
 - 👉 Common Interview Gotchas
 
+## [12. Iterables & Generators](./slices/12.md)
+
+- 👉 Iterable vs Iterator Protocol
+- 👉 `Symbol.iterator`
+- 👉 Built-in Iterables
+- 👉 `for...of` with Iterables
+- 👉 `function*` & `yield`
+- 👉 `yield*` — Delegating Generators
+- 👉 Generator Methods: `return()` & `throw()`
+- 👉 Infinite Sequences & Lazy Evaluation
+- 👉 Async Generators & `for await...of`
+- 👉 Use Cases
+
+
